@@ -7,3 +7,6 @@ Please take a look at the demo video for this project: [WonderFour Portable Lase
 
 ### Complete Documentation
 The complete documentation of this design project is also hosted here: [Portable Laser Guitar Documentation](https://github.com/lxieyang/Portable-Laser-Guitar/blob/master/Portable%20Laser%20Guitar.pdf)
+
+### Tune Source
+The tune source made specifically for this project can be found here: [Portable Laser Guitar Tune Source](https://github.com/lxieyang/Portable-Laser-Guitar/tree/master/Guitar%20tune%20source)
